@@ -1,0 +1,5 @@
+homepage: "https://twinalyze.com"
+documentation: "https://docs.twinalyze.com/3rd-party-integrations/gtm"
+versions:
+  - sha: a7c2d38bd0cfd655ca32c12cba68bcf5527ed55a
+    changeNotes: Initial release of the Twinalyze Web Analytics GTM template.
